@@ -2,122 +2,100 @@
 Professional project showcase documenting my contributions to the 2021 NASA SUITS Challenge as a member of the AstroBees team, highlighting software engineering, lunar surface simulation, augmented reality, human-computer interaction, and collaborative research.
 NASA SUITS Challenge 2021
 
-AstroBees Team
+NASA SUITS Challenge 2021
 
-University of Baltimore
+AstroBees Team | University of Baltimore
 
-Contributor: Joshua I. Jones
+Joshua I. Jones
+
+Software Programmer | UI/UX Team Contributor | Academic Research Co-Author
 
 Project Overview
 
-The NASA Spacesuit User Interface Technologies for Students (SUITS) Challenge provides students with opportunities to investigate and develop innovative technologies supporting astronaut operations and human space exploration.
+The NASA Spacesuit User Interface Technologies for Students (SUITS) Challenge provides students with opportunities to research, design, and develop innovative technologies supporting astronaut operations and human space exploration.
 
-As a member of the University of Baltimore AstroBees team, I contributed to a collaborative research and development initiative involving astronaut interface technologies, lunar surface simulation, and human-computer interaction.
+As a member of the University of Baltimore AstroBees team, I contributed to an interdisciplinary research and development initiative involving lunar surface simulation, augmented reality, astronaut user interfaces, and human-computer interaction.
 
 My Contributions
 
 Software Engineering
 
-Lunar Surface Simulation Development
+Lunar Surface Simulation Programming
 
-Interactive Environment Development
+Interactive 3D Environment Development
 
-Simulation Programming
+User Experience and User Interface Design
 
 Human-Computer Interaction
 
 Augmented Reality Research
 
-Collaborative Technical Development
+Collaborative Software Development
 
-Research Documentation
+Academic Research and Documentation
 
-Project Objectives
+Playable Lunar Surface Simulation
 
-Explore innovative approaches to astronaut information presentation.
+Astrobees: A Lunar Spacewalk Simulator
 
-Investigate human-centered interfaces supporting astronaut operations.
+Development Year: 2021
 
-Support the simulation of lunar surface activities.
+Role: Software Programmer and UI/UX Team Contributor
 
-Explore the presentation of critical information within augmented reality environments.
+The lunar spacewalk simulator was developed collaboratively using Unity, C#, and NASA lunar surface data to support remote testing and exploration of astronaut user interface concepts.
 
-Investigate usability and interaction considerations for complex operational environments.
+The simulation provided an interactive virtual environment supporting research into lunar surface exploration, astronaut operations, and human-centered interface design.
 
-Technical Competencies
+Official Programming Credits
 
-Unity
+Chantil Hunt Estevez
 
-C#
+Joshua Jones
 
-Simulation Development
+Play the Lunar Spacewalk Simulator
 
-Object-Oriented Programming
+https://unachanti.itch.io/astrobees
 
-Interactive 3D Environments
+Academic Research and Publications
 
-Augmented Reality
+My participation in the AstroBees project also contributed to two academic research works associated with lunar simulation, serious games, human-computer interaction, STEM education, and remote public engagement.
 
-User Experience Design
+Research Publication 1
 
-Information Architecture
+Serious Games in STEM: Online Collaborative Design of a Lunar Simulator
 
-Human Factors
+Authors: Chantil Hunt Estevez, Joshua Jones, Sujan Shrestha, and Giovanni Vincenti.
 
-Collaborative Software Engineering
+Publisher: Springer International Publishing
 
-Research and Development
+Conference: HCI International 2021
 
-Project Outcomes
+Publication Year: 2021
 
-Contributed to the development of a lunar surface simulation environment.
+Pages: 223–235
 
-Participated in interdisciplinary research and collaborative engineering activities.
+DOI: 10.1007/978-3-030-77685-5_18
 
-Contributed to a project selected to present its work to NASA.
+Publication Link
 
-Participated in research associated with an academic publication.
+https://doi.org/10.1007/978-3-030-77685-5_18
 
-Developed practical experience applying software engineering and human-centered design principles to aerospace-related challenges.
+Research Contribution 2
 
-Professional Development
+A Lunar Spacewalk Simulation to Support the Artemis Outreach Program and Promote Remote Public Engagement
 
-Participation in the NASA SUITS Challenge strengthened my interest in interdisciplinary technology research, human-computer interaction, intelligent systems, and emerging technologies.
+Authors: Chantil Hunt Estevez, Joshua Jones, Sujan Shrestha, and Giovanni Vincenti.
 
-The experience contributed to my decision to pursue graduate education in Interaction Design and Information Architecture and continues to influence my research and development interests.
+Conference: 50th International Conference on Environmental Systems (ICES)
 
-Related Research Interests
+Year: 2021
 
-Wearable Computing
+Official University Recognition
 
-Human-Machine Interaction
+Meet UBalt's 2021 NASA SUITS Team: AstroBees
 
-Cognitive Workload
+The University of Baltimore recognized the AstroBees team and identified its participating students, including my involvement within the UI/UX subteam.
 
-Situational Awareness
+University Article
 
-Artificial Intelligence
-
-Augmented Reality
-
-Simulation and Training
-
-Human-Centered Intelligent Systems
-
-Public Portfolio Notice
-
-This repository documents my professional and academic contributions to a collaborative student research project.
-
-Original team source code, restricted materials, and intellectual property belonging to NASA, the University of Baltimore, or other project contributors are not included.
-
-This repository is an independent professional portfolio showcase and does not imply NASA endorsement or affiliation.
-
-Approved photographs, demonstration materials, publication references, and additional project documentation may be added in the future.
-
-Professional Portfolio
-
-https://joshj0529.wixsite.com/joshua-jones-ux
-
-Professional LinkedIn
-
-https://www.linkedin.com/in/joshua-j-841884170/
+https://www.ubalt.edu/about/newsroom/ubalt-news-meet
